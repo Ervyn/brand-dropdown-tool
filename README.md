@@ -1,11 +1,11 @@
 ## How it works
 
-Input: Picks up brands list from brandInput.txt
-Output: Generates HTML code in brandOuput.html to be copy pasted in BOB CMS block
+1. Input: Picks up brands list from brandInput.txt
+2. Output: Generates HTML code in brandOuput.html to be copy pasted in BOB CMS block
 
 ## Pre-requisites
-Install Python 2.7.x using https://www.python.org/downloads/
-Youtube video explaining how to install python https://www.youtube.com/watch?v=L5t5U0XnSew
+1. Download Python 2.7.x using https://www.python.org/downloads/
+2. Youtube video explaining how to install python https://www.youtube.com/watch?v=L5t5U0XnSew
 
 ## Tool Installation
 1.  After you have installed python, downlod this repository as a zip (since you are a git noob)
