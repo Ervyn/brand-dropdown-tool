@@ -17,4 +17,5 @@
 6.  Goto to brandOutput.html to get the code
 
 ## Input File Rules
- 
+
+![screenshot_091616_070831_pm](https://cloud.githubusercontent.com/assets/20239180/18584108/4b2dbbd0-7c41-11e6-999a-3247e92aecde.jpg)
