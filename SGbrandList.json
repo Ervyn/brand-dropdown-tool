@@ -285,6 +285,11 @@
 		"url_key" : "lonsdale"
 	},
 	{
+		"id_catalog_brand" : 672,
+		"name" : "bYSI",
+		"url_key" : "bysi"
+	},
+	{
 		"id_catalog_brand" : 751,
 		"name" : "Ethnic Chic",
 		"url_key" : "ethnic-chic"
@@ -436,7 +441,7 @@
 	},
 	{
 		"id_catalog_brand" : 1207,
-		"name" : "Sparrow Green",
+		"name" : "SPARROW GREEN",
 		"url_key" : "sparrow-green"
 	},
 	{
@@ -806,7 +811,7 @@
 	},
 	{
 		"id_catalog_brand" : 1862,
-		"name" : "Closet",
+		"name" : "CLOSET",
 		"url_key" : "closet"
 	},
 	{
@@ -1940,11 +1945,6 @@
 		"url_key" : "setu"
 	},
 	{
-		"id_catalog_brand" : 2380,
-		"name" : "Fresh From The Kiln",
-		"url_key" : "fresh-from-the-kiln"
-	},
-	{
 		"id_catalog_brand" : 2381,
 		"name" : "HollyMolly",
 		"url_key" : "hollymolly"
@@ -2513,11 +2513,6 @@
 		"id_catalog_brand" : 2585,
 		"name" : "MSHRetail",
 		"url_key" : "mshretail"
-	},
-	{
-		"id_catalog_brand" : 2589,
-		"name" : "BUCKLE UP",
-		"url_key" : "buckle-up"
 	},
 	{
 		"id_catalog_brand" : 2590,
@@ -3173,11 +3168,6 @@
 		"id_catalog_brand" : 2882,
 		"name" : "Artesano",
 		"url_key" : "artesano"
-	},
-	{
-		"id_catalog_brand" : 2885,
-		"name" : "Marilyn Tan Jewellery",
-		"url_key" : "marilyn-tan-jewellery"
 	},
 	{
 		"id_catalog_brand" : 2888,
@@ -3918,11 +3908,6 @@
 		"id_catalog_brand" : 3164,
 		"name" : "ZALORA SPORT",
 		"url_key" : "zalora-sport"
-	},
-	{
-		"id_catalog_brand" : 3167,
-		"name" : "Lyn Jewels",
-		"url_key" : "lyn-jewels"
 	},
 	{
 		"id_catalog_brand" : 3168,
@@ -4720,11 +4705,6 @@
 		"url_key" : "face-bistro"
 	},
 	{
-		"id_catalog_brand" : 3421,
-		"name" : "ILIA",
-		"url_key" : "ilia"
-	},
-	{
 		"id_catalog_brand" : 3422,
 		"name" : "PiperWai",
 		"url_key" : "piperwai"
@@ -4958,11 +4938,6 @@
 		"id_catalog_brand" : 3482,
 		"name" : "Enjoy",
 		"url_key" : "enjoy"
-	},
-	{
-		"id_catalog_brand" : 3483,
-		"name" : "f block",
-		"url_key" : "f-block"
 	},
 	{
 		"id_catalog_brand" : 3484,
@@ -5235,11 +5210,6 @@
 		"url_key" : "soapwalla"
 	},
 	{
-		"id_catalog_brand" : 3572,
-		"name" : "BRICKELL",
-		"url_key" : "brickell"
-	},
-	{
 		"id_catalog_brand" : 3573,
 		"name" : "DR. YOUNG",
 		"url_key" : "dr-young"
@@ -5443,11 +5413,6 @@
 		"id_catalog_brand" : 3628,
 		"name" : "Tocca",
 		"url_key" : "tocca"
-	},
-	{
-		"id_catalog_brand" : 3629,
-		"name" : "Nectar Sunglasses",
-		"url_key" : "nectar-sunglasses"
 	},
 	{
 		"id_catalog_brand" : 3630,
@@ -5780,11 +5745,6 @@
 		"url_key" : "house-of-doll"
 	},
 	{
-		"id_catalog_brand" : 3719,
-		"name" : "Vanilla Rose",
-		"url_key" : "vanilla-rose"
-	},
-	{
 		"id_catalog_brand" : 3720,
 		"name" : "GreyPlus",
 		"url_key" : "greyplus"
@@ -5998,11 +5958,6 @@
 		"id_catalog_brand" : 3775,
 		"name" : "TRADISI by Bon Zainal (Classic Collection)",
 		"url_key" : "tradisi-by-bon-zainal-classic-collection"
-	},
-	{
-		"id_catalog_brand" : 3776,
-		"name" : "SUNDAYS",
-		"url_key" : "sundays"
 	},
 	{
 		"id_catalog_brand" : 3777,
@@ -6460,6 +6415,11 @@
 		"url_key" : "hatta-for-zalora"
 	},
 	{
+		"id_catalog_brand" : 3898,
+		"name" : "My Little Piece Of",
+		"url_key" : "my-little-piece-of"
+	},
+	{
 		"id_catalog_brand" : 3899,
 		"name" : "ARMANI",
 		"url_key" : "armani"
@@ -6898,11 +6858,6 @@
 		"id_catalog_brand" : 4003,
 		"name" : "Naphthys Collection",
 		"url_key" : "naphthys-collection"
-	},
-	{
-		"id_catalog_brand" : 4004,
-		"name" : "Miso",
-		"url_key" : "miso"
 	},
 	{
 		"id_catalog_brand" : 4005,
@@ -7388,5 +7343,80 @@
 		"id_catalog_brand" : 4103,
 		"name" : "Kapten & Son",
 		"url_key" : "kapten-son"
+	},
+	{
+		"id_catalog_brand" : 4104,
+		"name" : "Homebodii",
+		"url_key" : "homebodii"
+	},
+	{
+		"id_catalog_brand" : 4105,
+		"name" : "Legato Largo",
+		"url_key" : "legato-largo"
+	},
+	{
+		"id_catalog_brand" : 4106,
+		"name" : "Boss Orange",
+		"url_key" : "boss-orange"
+	},
+	{
+		"id_catalog_brand" : 4107,
+		"name" : "Carrera",
+		"url_key" : "carrera"
+	},
+	{
+		"id_catalog_brand" : 4108,
+		"name" : "LOST INK",
+		"url_key" : "lost-ink"
+	},
+	{
+		"id_catalog_brand" : 4109,
+		"name" : "Shawlbyvsnow",
+		"url_key" : "shawlbyvsnow"
+	},
+	{
+		"id_catalog_brand" : 4110,
+		"name" : "Shawlbyvsnow RTW",
+		"url_key" : "shawlbyvsnow-rtw"
+	},
+	{
+		"id_catalog_brand" : 4111,
+		"name" : "Samsung",
+		"url_key" : "samsung"
+	},
+	{
+		"id_catalog_brand" : 4112,
+		"name" : "Chelsea Peers",
+		"url_key" : "chelsea-peers"
+	},
+	{
+		"id_catalog_brand" : 4113,
+		"name" : "BONIA",
+		"url_key" : "bonia"
+	},
+	{
+		"id_catalog_brand" : 4114,
+		"name" : "BEAUTYMAKER",
+		"url_key" : "beautymaker"
+	},
+	{
+		"id_catalog_brand" : 4115,
+		"name" : "Jeepers Peepers",
+		"url_key" : "jeepers-peepers"
+	},
+	{
+		"id_catalog_brand" : 4116,
+		"name" : "Nude Femme ",
+		"url_key" : "nude-femme"
+	},
+	{
+		"id_catalog_brand" : 4117,
+		"name" : "MASHIZAN",
+		"url_key" : "mashizan"
+	},
+	{
+		"id_catalog_brand" : 4118,
+		"name" : "Aab Collection",
+		"url_key" : "aab-collection"
 	}
 ]

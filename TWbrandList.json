@@ -185,6 +185,16 @@
 		"url_key" : "lonsdale"
 	},
 	{
+		"id_catalog_brand" : 672,
+		"name" : "bYSI",
+		"url_key" : "bysi"
+	},
+	{
+		"id_catalog_brand" : 720,
+		"name" : "10 out of 10",
+		"url_key" : "10-out-of-10"
+	},
+	{
 		"id_catalog_brand" : 757,
 		"name" : "Heatwave",
 		"url_key" : "heatwave"
@@ -276,7 +286,7 @@
 	},
 	{
 		"id_catalog_brand" : 991,
-		"name" : "Sparrow Green",
+		"name" : "SPARROW GREEN",
 		"url_key" : "sparrowgreen"
 	},
 	{
@@ -546,7 +556,7 @@
 	},
 	{
 		"id_catalog_brand" : 1471,
-		"name" : "Closet",
+		"name" : "CLOSET",
 		"url_key" : "closet"
 	},
 	{
@@ -2800,11 +2810,6 @@
 		"url_key" : "urban-tee"
 	},
 	{
-		"id_catalog_brand" : 2043,
-		"name" : "f block",
-		"url_key" : "f-block"
-	},
-	{
 		"id_catalog_brand" : 2044,
 		"name" : "Enjoy",
 		"url_key" : "enjoy"
@@ -3958,5 +3963,50 @@
 		"id_catalog_brand" : 2301,
 		"name" : "Kapten & Son",
 		"url_key" : "kapten-son"
+	},
+	{
+		"id_catalog_brand" : 2302,
+		"name" : "Machismo",
+		"url_key" : "machismo"
+	},
+	{
+		"id_catalog_brand" : 2303,
+		"name" : "Homebodii",
+		"url_key" : "homebodii"
+	},
+	{
+		"id_catalog_brand" : 2304,
+		"name" : "Paul Hewitt",
+		"url_key" : "paul-hewitt"
+	},
+	{
+		"id_catalog_brand" : 2305,
+		"name" : "LOST INK",
+		"url_key" : "lost-ink"
+	},
+	{
+		"id_catalog_brand" : 2306,
+		"name" : "Billabong ",
+		"url_key" : "billabong"
+	},
+	{
+		"id_catalog_brand" : 2307,
+		"name" : "PlantWear",
+		"url_key" : "plantwear"
+	},
+	{
+		"id_catalog_brand" : 2308,
+		"name" : "BONIA",
+		"url_key" : "bonia"
+	},
+	{
+		"id_catalog_brand" : 2309,
+		"name" : "Chelsea Peers",
+		"url_key" : "chelsea-peers"
+	},
+	{
+		"id_catalog_brand" : 2310,
+		"name" : "Jeepers Peepers",
+		"url_key" : "jeepers-peepers"
 	}
 ]

@@ -250,6 +250,11 @@
 		"url_key" : "stride-rite"
 	},
 	{
+		"id_catalog_brand" : 672,
+		"name" : "bYSI",
+		"url_key" : "bysi"
+	},
+	{
 		"id_catalog_brand" : 741,
 		"name" : "Banana Taipei",
 		"url_key" : "bananataipei"
@@ -351,7 +356,7 @@
 	},
 	{
 		"id_catalog_brand" : 991,
-		"name" : "Sparrow Green",
+		"name" : "SPARROW GREEN",
 		"url_key" : "sparrowgreen"
 	},
 	{
@@ -621,7 +626,7 @@
 	},
 	{
 		"id_catalog_brand" : 1471,
-		"name" : "Closet",
+		"name" : "CLOSET",
 		"url_key" : "closet"
 	},
 	{
@@ -3208,11 +3213,6 @@
 		"id_catalog_brand" : 2507,
 		"name" : "Eyki",
 		"url_key" : "eyki"
-	},
-	{
-		"id_catalog_brand" : 2508,
-		"name" : "f block",
-		"url_key" : "f-block"
 	},
 	{
 		"id_catalog_brand" : 2509,
@@ -6358,5 +6358,80 @@
 		"id_catalog_brand" : 3327,
 		"name" : "Kapten & Son",
 		"url_key" : "kapten-son"
+	},
+	{
+		"id_catalog_brand" : 3328,
+		"name" : "Machismo",
+		"url_key" : "machismo"
+	},
+	{
+		"id_catalog_brand" : 3329,
+		"name" : "Homebodii",
+		"url_key" : "homebodii"
+	},
+	{
+		"id_catalog_brand" : 3330,
+		"name" : "FRENCH ALLURE",
+		"url_key" : "french-allure"
+	},
+	{
+		"id_catalog_brand" : 3331,
+		"name" : "theRubz",
+		"url_key" : "therubz"
+	},
+	{
+		"id_catalog_brand" : 3332,
+		"name" : "MACACA",
+		"url_key" : "macaca"
+	},
+	{
+		"id_catalog_brand" : 3333,
+		"name" : "Paul Hewitt",
+		"url_key" : "paul-hewitt"
+	},
+	{
+		"id_catalog_brand" : 3334,
+		"name" : "LOST INK",
+		"url_key" : "lost-ink"
+	},
+	{
+		"id_catalog_brand" : 3335,
+		"name" : "Billabong ",
+		"url_key" : "billabong"
+	},
+	{
+		"id_catalog_brand" : 3336,
+		"name" : "Pink Martini",
+		"url_key" : "pink-martini"
+	},
+	{
+		"id_catalog_brand" : 3337,
+		"name" : "Tomonari",
+		"url_key" : "tomonari"
+	},
+	{
+		"id_catalog_brand" : 3338,
+		"name" : "PlantWear",
+		"url_key" : "plantwear"
+	},
+	{
+		"id_catalog_brand" : 3339,
+		"name" : "Chelsea Peers",
+		"url_key" : "chelsea-peers"
+	},
+	{
+		"id_catalog_brand" : 3340,
+		"name" : "BONIA",
+		"url_key" : "bonia"
+	},
+	{
+		"id_catalog_brand" : 3341,
+		"name" : "COTTINY",
+		"url_key" : "cottiny"
+	},
+	{
+		"id_catalog_brand" : 3342,
+		"name" : "Jeepers Peepers",
+		"url_key" : "jeepers-peepers"
 	}
 ]
